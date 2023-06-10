@@ -9,7 +9,7 @@
 |  | 2 | Fri - 02/06 | 1.2 - Introdução à NumPy e Pandas | 06/06 | &check; |
 |  | 3 | Mon - 05/06 | 1.3 - Visualização de Dados | - | - |
 |  | 4 | Tue - 06/06 | 1.4 - Visão Geral sobre IA | 09/06 | &check; |
-|  | 5 | Wed - 07/06 | 1.5 - Controvérsias da IA e Aspectos Futuros | 10/06 |  |
+|  | 5 | Wed - 07/06 | 1.5 - Controvérsias da IA e Aspectos Futuros | 10/06 | &check; |
 
 <br>
 
@@ -19,9 +19,9 @@
 |  | # | Data | Conteúdo | Prazo para o Quiz | Quiz entregue? |
 |:---:|:---:|:---:|:---|:---:|:---:|
 |  | 6 | Mon - 12/06 | 2.1 - ML Definition and ML Types | 15/06 |  |
-|  | 07 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 |  |
-|  | 08 | Thu - 15/06 | 2.3 - ML Process Overview | 18/06 |  |
-|  | 09 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 |  |
+|  | 7 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 |  |
+|  | 8 | Thu - 15/06 | 2.3 - ML Process Overview | 18/06 |  |
+|  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 |  |
 
 <br>
 
