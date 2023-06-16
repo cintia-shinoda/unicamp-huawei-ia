@@ -18,8 +18,8 @@
 
 |  | # | Data | Conteúdo | Prazo para o Quiz | Quiz entregue? |
 |:---:|:---:|:---:|:---|:---:|:---:|
-|  | 6 | Mon - 12/06 | 2.1 - ML Definition and ML Types | 15/06 |  |
-|  | 7 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 |  |
+|  | 6 | Mon - 12/06 | 2.1 - ML Definition and ML Types | 15/06 | &check; |
+|  | 7 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 | &check; |
 |  | 8 | Thu - 15/06 | 2.3 - ML Process Overview | 18/06 |  |
 |  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 |  |
 
@@ -31,10 +31,10 @@
 |:---:|:---:|:---:|:---|
 | &check; | 01 | Tue - 06/06 | Wellington (6pm) |
 | &check; | 02 | Wed - 07/06 | Prof. Allan (6pm) |
-|  | 03 | Tue - 13/06 | Prof. Edson (6pm) |
-|  | 04 | Fri - 16/06 | André (6pm) |
-|  | 05 | Tue - 20/06 | André (6pm) |
-|  | 06 | Fri - 23/06 | Prof. Edson (7pm) |
+| &check; | 03 | Thu - 15/06 | André (6pm) |
+|  | 04 | Tue - 20/06 | André (6pm) |
+|  | 05 | Fri - 23/06 | Prof. Edson (6pm) |
+|  | 06 | Tue - 27/06 | Prof. Edson (7pm) |
 |  | 07 | Thu - 06/07 | Profa. Esther (6pm) |
 |  | 08 | Fri - 07/07 | Maria (7pm) |
 |  | 09 | Tue - 11/07 | Profa. Esther (6pm) |
