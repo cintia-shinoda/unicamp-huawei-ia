@@ -22,6 +22,9 @@
 |  | 7 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 | &check; |
 |  | 8 | Thu - 15/06 | 2.3 - ML Process Overview | 18/06 |  |
 |  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 |  |
+|  | 10 | Mon - 19/06 | 2.3.3 - Hyperparameter tuning, Dataset splitting, and the Gradient Descent Method | 22/06 |  |
+|  | 11 | Tue - 20/06 | 2.4.1 - Linear/Polynomial/Rdige/Lasso Regression and Logistic and Softmax Regression | 23/06 |  |
+|  | 12 | Fri - 23/06 | 2.4.2 - Decision Tree, Ensemble, and Random Forests | 26/06 |  |
 
 <br>
 
@@ -55,7 +58,7 @@
 Teremos um conjunto de vouchers para a certificação que serão liberados com as seguintes condições para o participante:
 - pelo menos 50% de participação nas monitorias
 - pelo menos 70% de entrega das atividades em todos os módulos
-- completar o 100% das aulas na plataforma HUAWEI
+- completar 100% das aulas na plataforma HUAWEI
 
 - Todos os participantes precisam se inscrever na plataforma da Huawei conforme tutorial que será disponibilizado
 
