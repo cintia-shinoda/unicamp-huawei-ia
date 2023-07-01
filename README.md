@@ -21,7 +21,7 @@
 |  | 6 | Mon - 12/06 | 2.1 - ML Definition and ML Types | 15/06 | &check; |
 |  | 7 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 | &check; |
 |  | 8 | Thu - 15/06 | 2.3.1 - ML Process Overview | 18/06 | &check; |
-|  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 |  |
+|  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 | &check; |
 |  | 10 | Mon - 19/06 | 2.3.3 - Hyperparameter tuning, Dataset splitting, and the Gradient Descent Method | 22/06 |  |
 |  | 11 | Tue - 20/06 | 2.4.1 - Linear/Polynomial/Rdige/Lasso Regression and Logistic and Softmax Regression | 23/06 |  |
 |  | 12 | Fri - 23/06 | 2.4.2 - Decision Tree, Ensemble, and Random Forests | 26/06 |  |
@@ -36,8 +36,8 @@
 | &check; | 02 | Wed - 07/06 | Prof. Allan (6pm) |
 | &check; | 03 | Thu - 15/06 | André (6pm) |
 | &check; | 04 | Tue - 20/06 | André (6pm) |
-|  | 05 | Fri - 23/06 | Prof. Edson (6pm) |
-|  | 06 | Tue - 27/06 | Prof. Edson (7pm) |
+| &check; | 05 | Fri - 23/06 | Prof. Edson (6pm) |
+| &check; | 06 | Tue - 27/06 | Prof. Edson (7pm) |
 |  | 07 | Thu - 06/07 | Profa. Esther (6pm) |
 |  | 08 | Fri - 07/07 | Maria (7pm) |
 |  | 09 | Tue - 11/07 | Profa. Esther (6pm) |
