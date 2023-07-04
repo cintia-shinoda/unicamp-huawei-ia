@@ -22,12 +22,26 @@
 |  | 7 | Tue - 13/06 | 2.2 - Linear Regression Example | 16/06 | &check; |
 |  | 8 | Thu - 15/06 | 2.3.1 - ML Process Overview | 18/06 | &check; |
 |  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 | &check; |
-|  | 10 | Mon - 19/06 | 2.3.3 - Hyperparameter tuning, Dataset splitting, and the Gradient Descent Method | 22/06 |  |
+|  | 10 | Mon - 19/06 | 2.3.3 - Hyperparameter tuning, Dataset splitting, and the Gradient Descent Method | 22/06 | &check; |
 |  | 11 | Tue - 20/06 | 2.4.1 - Linear/Polynomial/Rdige/Lasso Regression and Logistic and Softmax Regression | 23/06 |  |
 |  | 12 | Fri - 23/06 | 2.4.2 - Decision Tree, Ensemble, and Random Forests | 26/06 |  |
+|  | 13 | Mon - 26/06 | 2.4.3 - SVM, KNN, and Naive Bayes | 29/06 |  |
+|  | 14 | Tue - 27/06 | 2.5 - Clustering Algorithms | 30/06 |  |
+|  | 15 | Tue - 29/06 | 2.6 - Use Case | 02/07 |  |
 
 <br>
 
+### ```Módulo 3 - Aprendizagem Profunda```
+
+|  | # | Data | Conteúdo | Prazo para o Quiz | Quiz entregue? |
+|:---:|:---:|:---:|:---|:---:|:---:|
+|  | 16 | Fri - 30/06 | 3.1 - Deep Learning Summary | - | - |
+|  | 17 | Mon - 03/07 | 3.2 - Introduction to Neural Networks | 07/07 |  |
+|  | 18 | Tue - 04/07 | 3.3 - Neural Networks Structure | 08/07 |  |
+|  | 19 | Thu - 06/07 | 3.4 - Activation Functions | 10/07 |  |
+|  | 20 | Fri - 07/07 | 3.5 - Learning in Neural Networks | 11/07 |  |
+
+<br>
 
 ## Monitorias
 |  | # | Data |  |
