@@ -23,7 +23,7 @@
 |  | 8 | Thu - 15/06 | 2.3.1 - ML Process Overview | 18/06 | &check; |
 |  | 9 | Fri - 16/06 | 2.3.2 - Model training, Model evaluation (I), and Model evaluation (II) - Performance Measures | 19/06 | &check; |
 |  | 10 | Mon - 19/06 | 2.3.3 - Hyperparameter tuning, Dataset splitting, and the Gradient Descent Method | 22/06 | &check; |
-|  | 11 | Tue - 20/06 | 2.4.1 - Linear/Polynomial/Rdige/Lasso Regression and Logistic and Softmax Regression | 23/06 |  |
+|  | 11 | Tue - 20/06 | 2.4.1 - Linear/Polynomial/Ridge/Lasso Regression and Logistic and Softmax Regression | 23/06 |  |
 |  | 12 | Fri - 23/06 | 2.4.2 - Decision Tree, Ensemble, and Random Forests | 26/06 |  |
 |  | 13 | Mon - 26/06 | 2.4.3 - SVM, KNN, and Naive Bayes | 29/06 |  |
 |  | 14 | Tue - 27/06 | 2.5 - Clustering Algorithms | 30/06 |  |
