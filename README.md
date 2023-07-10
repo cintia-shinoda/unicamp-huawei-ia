@@ -52,7 +52,7 @@
 | &check; | 04 | Tue - 20/06 | André (6pm) |
 | &check; | 05 | Fri - 23/06 | Prof. Edson (6pm) |
 | &check; | 06 | Tue - 27/06 | Prof. Edson (7pm) |
-|  | 07 | Thu - 06/07 | Profa. Esther (6pm) |
+|  | 07 | Mon - 10/07 | Profa. Esther (6pm) |
 |  | 08 | Fri - 07/07 | Maria (7pm) |
 |  | 09 | Tue - 11/07 | Profa. Esther (6pm) |
 |  | 10 | Fri - 14/07 | Maria (7pm) |
