@@ -1,5 +1,7 @@
 # Unicamp-Huawei - IA
 
+![certificado](https://github.com/cintia-shinoda/unicamp-huawei-ia/blob/master/certificado-formacao.jpg)
+
 ## Cronograma
 ### ```Módulo 1 - Introdução à Inteligência Artificial```
 
